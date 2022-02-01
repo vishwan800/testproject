@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'auxderivation'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E691E55238064532BA6932DAB5FD5198 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9BC432C9BEE44AF7B1410B94AA9CF08A }}
